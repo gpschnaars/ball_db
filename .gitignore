@@ -1,0 +1,16 @@
+.env/
+.vscode/
+.secrets/
+.duckdb/
+.dlt/secrets.toml
+
+__pycache__/
+
+.dlt/
+dlt/
+
+
+*.ipynb
+*.txt
+
+
